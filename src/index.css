@@ -94,6 +94,11 @@
   * {
     @apply border-border;
   }
+  
+  html {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+  }
 
   body {
     @apply bg-background text-foreground;
